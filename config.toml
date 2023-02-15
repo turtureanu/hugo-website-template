@@ -1,0 +1,14 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'LoveIt'
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+
+
+  [[menu.main]]
+    name = "About me"
+    url = "about"
